@@ -1,0 +1,13 @@
+
+
+
+co ukladat do zoznamu hier:
+meno hraca,
+cas zaciatku hry, 
+cas konca hry, (oba casty ako rok,mesiac,den, hodina , minuta, sekunda (podla toho urcime dlzku hry))
+slovo,
+dlzka slova,
+obtiaznost (int cislo , to bude nadstavene ale nieje to potrebne )
+pismena ktore hrac hadal (postupne)
+
+

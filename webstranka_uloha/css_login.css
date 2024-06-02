@@ -1,0 +1,40 @@
+body {
+
+    display:grid;
+    /* justify-content: center;*/
+    align-items: center;
+    }
+    
+    header{
+    background-color: orange;
+    color: white;
+    text-transform: uppercase;
+    
+    
+    display: block;
+    unicode-bidi: isolate;
+    }
+    
+    li {
+    
+    float: right;
+    /* position: sticky;*/
+    top: 0;
+    background-color: yellow;
+    padding: 10px;
+    font-size: 20px;
+    /* margin-left: -10px;
+    margin-top: -10px;
+    margin-right: -10px;
+    margin-bottom: 0%;
+    */
+    }
+    .container {
+        padding: 20px;
+        border-radius: 8px;
+        display: block;
+    }
+
+    
+
+    
